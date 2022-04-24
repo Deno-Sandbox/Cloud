@@ -1,6 +1,6 @@
 # Cloud
 
-<img src="./_git/banner.gif">
+<img src="https://github.com/Deno-Sandbox/Cloud/blob/main/_git/banner.gif?raw=true">
 
 This is a simple cloud is Deno. Have fun ! <br>
 
